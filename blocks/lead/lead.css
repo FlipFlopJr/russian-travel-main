@@ -1,17 +1,16 @@
 .lead{
-    margin-top: 56px;
-    width: calc(100% - (2 * 148px));
-    border: 1px solid pink;
+
+    margin: 56px auto 0;
+    max-width: calc(100% - (2 * 148px));
+    /* border: 1px solid pink; */
     /* outline: auto; */
     align-items: center;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 0;
+
     
     
 }
 
 
-.lead * {
+/* .lead * {
     border: 1px solid pink;
-}
+} */

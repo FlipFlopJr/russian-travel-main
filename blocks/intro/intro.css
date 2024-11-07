@@ -1,0 +1,12 @@
+.intro {
+    max-width: 690px;
+    margin-left: 148px;
+    border: 1px pink solid;
+    margin-top: 92px;
+    /* padding-top: 0; */
+    padding-top: 0;
+}
+
+/* .intro * {
+    border: 1px solid pink;
+} */
