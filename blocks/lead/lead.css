@@ -1,0 +1,17 @@
+.lead{
+    margin-top: 56px;
+    width: calc(100% - (2 * 148px));
+    border: 1px solid pink;
+    /* outline: auto; */
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    
+    
+}
+
+
+.lead * {
+    border: 1px solid pink;
+}
