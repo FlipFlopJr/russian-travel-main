@@ -1,0 +1,18 @@
+.cover__overlay {
+    max-width: inherit;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #2A2C2F;
+    transition: background-color 0.3s ease-in 0s;
+    opacity: 0.3;
+    z-index: 2;
+}
+
+.cover__overlay:hover {
+    opacity: 0.8;
+    transition: opacity 0.3s ease-in 0s;  
+
+}
