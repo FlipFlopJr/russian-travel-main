@@ -1,11 +1,7 @@
 .intro {
     max-width: 690px;
-    margin-left: 148px;
-    /* border: 1px pink solid; */
-    margin-top: 92px;
-    /* padding-top: 0; */
-    padding-top: 0;
-    margin-bottom: 0;
+    margin: 92px 148px 0;
+
 }
 
 /* .intro * {
